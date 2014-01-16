@@ -1,0 +1,19 @@
+movies - GET,POST
+movies/latest - GET
+movies/{id} - GET
+movies/{id}/latest - GET
+movies/likeimage - POST
+
+tv - GET,POST
+tv/latest - GET
+tv/{id} - GET
+tv/{id}/latest - GET
+tv/likeimage - POST
+
+music - GET,POST
+music/latest - GET
+music/{id} - GET
+music/{id}/latest - GET
+music/likeimage - POST
+music/labels - POST
+music/labels/{id} - GET
